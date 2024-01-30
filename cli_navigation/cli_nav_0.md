@@ -1,8 +1,8 @@
 Windows users, open _Command Prompt_\
 Mac or Linux users, open _Terminal_\
 \
-A basic command to view your current path and directory/folder\
-  Linux or Mac: Print Working Directory
-    `pwd`
-  Windows:
-    `cd`
+A basic command to view your current path and directory (a directory is also called a folder)\
+  Linux or Mac: Print Working Directory\
+    `pwd`\
+  Windows:\
+    `cd`\
