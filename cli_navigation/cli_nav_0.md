@@ -6,7 +6,8 @@ Mac or Linux:\
 `pwd`\
 Windows:\
 `cd`
-\\
+\
+\
 List all files and sub-directories (sub-folders) that are in your current directory:\
 Mac or Linux:\
 `ls`
